@@ -348,6 +348,7 @@ module.exports = function(webpackEnv) {
               loader: require.resolve('url-loader'),
               options: {
                 limit: 9999999999999999,
+                //name: 'static/media/[name].[hash:8].[ext]',
                 name: 'static/media/[name].[ext]',
               },
             },
