@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/bh90210/wails-react-scripts"
+    "url": "https://github.com/bh90210/wails-react-scripts/issues"
   },
   "files": [
     "bin",
