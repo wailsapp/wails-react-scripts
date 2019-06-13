@@ -5,3 +5,7 @@ This package includes scripts and configuration used by [Wails Create React App]
 ## how to use the repo for creating custom React builds without ejecting
 
 wip
+
+### things you can not change or wails build will fail
+
+wip
