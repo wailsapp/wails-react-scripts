@@ -4,7 +4,7 @@
   "description": "Configuration and scripts for Wais + Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bh90210/wails-react-scripts.git",
+    "url": "https://github.com/wailsapp/wails-react-scripts.git",
     "directory": "."
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/bh90210/wails-react-scripts/issues"
+    "url": "https://github.com/wailsapp/wails-react-scripts/issues"
   },
   "files": [
     "bin",
