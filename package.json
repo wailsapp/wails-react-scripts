@@ -1,5 +1,5 @@
 {
-  "name": "wails-react-scripts",
+  "name": "@wailsapp/wails-react-scripts",
   "version": "3.0.1-2",
   "description": "Configuration and scripts for Wais + Create React App.",
   "repository": {
